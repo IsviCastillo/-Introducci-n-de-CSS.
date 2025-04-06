@@ -13,7 +13,7 @@ body{
     background-color: rgb(212, 201, 190);
 }
 
-.profile-img{
+.perfil{
     width: 100px;
     height: 100px;
     object-fit: cover;
